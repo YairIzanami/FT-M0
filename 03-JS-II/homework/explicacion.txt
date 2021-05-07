@@ -1,0 +1,7 @@
+for. Permite realizar una actividad hasta que se cumpla una condición dada a partir de un valor inicial. Por ejemplo, si tenemos una bomba de agua y queremos que suba agua por 5 minutos, el for se va a encargar de que la bomba siga encendida, mientras comienza a contar el tiempo hasta que se cumplan los 5 minutos, en ese momento apagará la bomba.
+
+&&. El operador AND devuelve verdadero si dos comparaciones son verdaderas y falso si al menos una es falsa. Por ejemplo, imaginemos que el operador && es una caseta de cobro que deja pasar gratis únicamente a los autos que sean camionetas y amrillos. Si llega una camioneta verde no la dejará pasar gratis ya que es camioneta (verdadero) pero no es amarilla, lo mismo pasa si llega un bocho amarillo, es verdad que tiene el color pero no el tipo de auto pero si llega una Lobo amarilla esta pásará ya que es tanto camioneta como amarilla.
+
+||. El operador OR devolverá verdadero si al menos una condición es verdadera y falso si ambas son falsas. Nuevamente usando el ejemplo de la caseta y autos, una caseta OR dejará pasar al bocho amarillo ya que sólo le importa que un valor sea el correcto, también dejará pasar a la camioneta verde ya que se cumple que sea una camioneta pero no dejará pasar a un trailer rojo porque no cumple ninguna de las dos condiciones.
+
+!. Sirve para negar o cambiar un elemento booleano a su valor opuesto. Lo podemos ver como un interruptor. Si el interruptor está en estado encendido, al pasarlo por el operador ! el interruptor se pasará al modo apagado y viceversa.

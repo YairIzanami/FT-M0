@@ -1,0 +1,9 @@
+Variables. Son letras o palabras que pueden almacenar datos como números, letras, palabras o frases. El valor puede ser cambiado por otro, por eso el nombre de variable.
+
+Strings. Es un conjunto de letras.
+
+Funciones. Es un código que permite hacer operaciones aritméticas a partir de recibir ciertos datos, los datos pueden variar y el resultado que devolverá se modificará de acuerdo a los elementos introducidos. Es. como una máquina de hacer jamón, introduces una cantidad de elementos como carne, especias, colorantes y te devuelve jamón, si cambias el tipo de carne, las espcias o el colorante te seguirá dando jamón pero con otra presentación, en este caso la máquna de jamón es la función.
+
+Declaraciones if. Son una especie de pregunta que te indica qué hacer en caso de que algo que preguntes sea verdadero o qué hacer en caso de ser falso. Por ejemplo, ¿hiciste la tarea?, si respondes que sí puedes salir a jugar, en caso contrario tienes que permanecer en casa.
+
+Valores booleanos. Es un elemento que puede tomar únicamente dos valores, por ejemplo, un interruptor, ya que puede tomar los valores encendido o apagado. En programación al encendido le llamaremos true y al apagado false.
